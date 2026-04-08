@@ -1,0 +1,18 @@
+Hi {name},
+
+I hope things are going well at {company}! I've been keeping an eye on what's happening in the {industry} space — {trend_summary} — and it made me think of you.
+
+It's been a while since we last connected, and I'd love to catch up. I have a couple of ideas that might be useful for where {company} is headed right now.
+
+Would you be open to a quick 30-minute call?
+
+Looking forward to reconnecting,
+[Your Name]
+
+---
+BRAND VOICE NOTES:
+- Tone: Warm, direct, never pushy
+- Length: Under 150 words
+- Always lead with something relevant to their world, not yours
+- One specific trend mention max — don't overwhelm
+- End with a soft, easy yes/no question

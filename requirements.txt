@@ -1,0 +1,5 @@
+google-adk==1.14.0
+google-cloud-logging
+psycopg2-binary
+python-dotenv
+requests
