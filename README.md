@@ -205,9 +205,3 @@ solopitch/
 | Tavily Search API | Industry trend research | Researcher |
 | Notes (filesystem) | Brand voice templates + pitch storage | Drafter |
 | Calendar (mock → Google Calendar MCP) | Available slot generation | Scheduler |
-
-## Hackathon Track
-
-Submitted under **Track 07 — Open Innovation** (Ascendant Agents): a
-wildcard track for any AI agent idea outside the listed themes, judged on
-originality, feasibility, and real-world impact.
